@@ -9,7 +9,7 @@ Two sides of the same question: can you tell human from machine?
 
 | Name | Roll Number |
 |---|---|
-| Kamal Kumar Nampally | SE24UCSE110 |
+| Mayank Rao ponnala | SE24UCSE026 |
 
 ---
 
@@ -165,7 +165,7 @@ python main.py
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/enkamal7/turing-captcha.git
+git clone https://github.com/Mayank06SW/turing-captcha.git
 cd turing-captcha
 ```
 
